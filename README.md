@@ -1,2 +1,2 @@
 # API-proyects
-Actualizar información desde APIs
+La idea de este proyecto es actualizar información desde APIs
