@@ -7,8 +7,8 @@ library(openxlsx)
 setwd("C:\\Users\\20416597295\\Documents\\Santiago\\R")
 
 # Credenciales
-username <- "zaxruiz98"
-password <- "Milanesa98_"
+username <- ""****""
+password <- "****"
 token <- "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njc3MTcwMTIsInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJydWl6c2FudGlhZ29uaWNvbGFzN0BnbWFpbC5jb20ifQ.ZjyboyfZos7cj3WPO8vIc6A72E-e4BwtGXwa15GYaqYD5hpBwuQGUMELvFAlM5uHW3sXdsftRfKaiZIq-PBS_g"
 
 # URL del endpoint de las estadísticas BCRA
